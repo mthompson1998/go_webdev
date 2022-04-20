@@ -1,0 +1,10 @@
+Go to Google Domains for google cloud
+
+Deploy to App Engine
+
+3 levels of service 
+    infrastructure
+    platform -- App Engine
+    softwarer
+
+web domain generator to find a domain name
