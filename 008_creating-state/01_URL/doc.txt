@@ -1,0 +1,8 @@
+You can always append values to a URL
+
+Anything after the ? is the query string - the area where values are stored
+
+
+The values are stored in a identifier=value fashion
+
+you can have multiple indentifier value by separating them in the & ampersand
